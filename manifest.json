@@ -33,6 +33,9 @@
       "name": "colossus-write-logs"
     },
     {
+      "name": "Get_Account_By_Identifier"
+    },
+    {
       "name": "Save_Account"
     }
   ],
