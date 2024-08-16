@@ -1,0 +1,13 @@
+{
+    "memory": 256,
+    "ttl": 100,
+    "timeout": 180,
+    "minReplicas": 2,
+    "maxReplicas": 4,
+    "routes": {
+      "details": {
+        "path": "/_v/vtex.main-account-reader/",
+        "public": true
+      }
+    }
+  }
